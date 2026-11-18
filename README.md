@@ -6,7 +6,7 @@
 
 > **Mô tả ngắn gọn:** Một câu tóm tắt giá trị cốt lõi của dự án. (Ví dụ: Hệ thống quản lý công việc thời gian thực giúp tối ưu hóa quy trình làm việc nhóm nhỏ).
 
-## 📖 Giới thiệu chi tiết (Mô tả dự án)
+## 📖 Giới thiệu chi tiết
 
 Giải thích rõ hơn về bối cảnh ra đời của dự án:
 
